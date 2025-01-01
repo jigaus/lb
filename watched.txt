@@ -1,0 +1,178 @@
+DATE	NAME	YEAR	LENGTH	RATING	DIRECTOR	PRIMARY_LANGUAGE	FOREIGN	GENRE	REWATCH
+may	the_battle_of_algiers	1966	121	NA	gillo_pontecorvo	arabic	no	"war,history,drama"	no
+march	paradise_now	2005	90	4.5	hany_abu_assad	arabic	yes	"crime,war,thriller,drama"	no
+october	lions_of_mesopotamia	2024	86	4.5	lucian_reed	arabic	yes	documentary	no
+june	the_music_room	1958	100	4	satyajit_ray	bengali	yes	"drama,music"	no
+august	eat_drink_man_woman	1994	123	4.5	ang_lee	cantonese	yes	"romance,drama,comedy"	no
+may	a_touch_of_sin	2013	121	4	jia_zhangke	cantonese	yes	"drama,action,crime"	no
+february	ikarie_xb_1	1963	88	4.5	jindrich_polak	czech	yes	science fiction	no
+january	cat_on_a_hot_tin_roof	1958	108	NA	richard_brooks	english	no	drama	no
+january	tongues_untied	1989	55	NA	marlon_riggs	english	no	documentary	no
+february	Falsettos	2017	143	NA	"matthew_diamond, james_lapine"	english	no	"comedy,music,romance,drama"	no
+february	chameleon_street	1989	94	NA	wendell_b_harris_jr	english	no	"comedy,drama"	no
+march	the_war_game	1966	48	NA	peter_watkins	english	no	"war,TV movie"	no
+april	secrets_of_the_tribe	2010	98	NA	jose_padilha	english	no	"TV movie,documentary"	no
+september	thailand_moment	2015	11	NA	"les_blank, skip_gerson"	english	no	documentary	no
+december	Klaus	2019	96	NA	sergio_pablos	english	no	"comedy,adventure,animation,fantasy,family"	no
+december	the_karate_kid	1984	126	NA	john_g_avildsen	english	no	"family,drama,action"	no
+december	Home Sweet Home	1982	86	NA	mike_leigh	english	no	"TV movie,drama"	no
+december	Stormy Weather	1943	78	NA	andrew_l_stone	english	no	music	no
+december	all_that_jazz	1979	123	NA	bob_fosse	english	no	"music,drama"	no
+january	punishment_park	1971	88	5	peter_watkins	english	no	"drama,thriller"	no
+february	the_fall	2006	119	5	tarsem_singh	english	no	"adventure,fantasy,drama"	no
+march	dune_part_two	2024	167	5	denis_villeneuve	english	no	"adventure,science fiction"	no
+may	Kes	1969	111	5	ken_loach	english	no	drama	no
+june	brokeback_mountain	2005	134	5	ang_lee	english	no	"romance,drama"	no
+august	sing_sing	2023	107	5	greg_kwedar	english	no	drama	no
+january	love_streams	1984	141	4.5	john_cassavetes	english	no	drama	no
+march	Ratcatcher	1999	94	4.5	lynne_ramsay	english	no	drama	no
+march	Problemista	2023	104	4.5	julio_torres	english	no	comedy	no
+may	furiosa_a_mad_max_saga	2024	149	4.5	george_miller	english	no	"science fiction,adventure,action"	no
+august	the_trial	1962	119	4.5	orson_welles	english	no	"crime,drama,mystery"	no
+december	Lawrence of Arabia	1962	228	4.5	david_lean	english	no	"adventure,war,history"	no
+december	Singin' in the Rain	1952	103	4.5	"stanley_donen, gene_kelly"	english	no	"romance,comedy"	no
+january	opening_night	1977	144	4	john_cassavetes	english	no	drama	no
+february	sexy_beasy	2000	89	4	jonathan_glazer	english	no	"drama,thriller,crime"	no
+february	good_will_hunting	1997	127	4	gus_van_sant	english	no	drama	no
+march	being_john_malkovich	1999	113	4	spike_jonze	english	no	"comedy,fantasy,drama"	no
+march	Sicario	2015	122	4	denis_villeneuve	english	no	"action,thriller,crime"	no
+march	the_long_goodbye	1973	112	4	robert_altman	english	no	"crime,thriller,mystery"	no
+april	Challengers	2024	132	4	luca_guadagnino	english	no	"drama,romance"	no
+may	bloody_Sunday	2002	107	4	paul_greengrass	english	sort of	"drama,history"	no
+june	daer_zachary	2008	93	4	kurt_kuenne	english	no	"documentary,crime"	no
+june	Ghostlight	2024	115	4	"alex_thompson, kelly_o_sullivan"	english	no	"comedy,drama"	no
+july	inherit_the_wind	1960	128	4	stanley_kramer	english	no	drama	no
+august	didi	2024	94	4	sean_wang	english	no	"comedy,drama"	no
+august	bodies_bodies_bodies	2022	94	4	halina_reijn	english	no	"mystery,horror,comedy"	no
+august	blue_color	1978	114	4	paul_schrader	english	no	"drama,crime"	no
+september	safety_last	1923	73	4	"sam_taylor, fred_c_newmeyer"	english	no	comedy	no
+september	point_break	1991	122	4	kathryn_bigelow	english	no	"thriller,crime,action"	no
+october	Transplant	2024	93	4	jason_park	english	no	"drama,thriller"	no
+november	Anora	2024	139	4	sean_baker	english	no	"drama,romance,comedy"	no
+november	chan_is_missing	1982	76	4	wayne_wang	english	no	"drama,mystery,crime,comedy"	no
+november	how_to_train_your_dragon	2010	98	4	"chris_sanders, dean_deblois"	english	no	"fantasy,family,adventure,animation"	no
+december	AlphaGo	2017	90	4	greg_kohs	english	no	documentary	no
+december	The War Room	1993	96	4	"da_pennebaker, chris_hegedus"	english	no	"history,documentary"	no
+december	Nosferatu	2024	132	4	robert_eggers	english	no	"fantasy,horror"	no
+december	The Hudsucker Proxy	1994	111	4	joel_coen	english	no	comedy	no
+december	a_real_pain	2024	90	4	jesse_eisenberg	english	no	"comedy,drama"	no
+january	a_new_leaf	1971	102	3.5	elaine_may	english	no	"romance,comedy"	no
+january	rebel_without_a_cause	1955	111	3.5	nicholas_ray	english	no	drama	no
+february	all_of_us_strangers	2023	105	3.5	andrew_haigh	english	no	"romance,drama,fantasy"	no
+march	Cruising	1980	102	3.5	william_friedkin	english	no	"thriller,crime,mystery"	no
+march	Aliens	1986	137	3.5	james_cameron	english	no	"science fiction,horror,thriller,action"	no
+april	the_hidden	1987	96	3.5	jack_sholder	english	no	"thriller,science fiction,horror,action"	no
+april	monkey_man	2024	121	3.5	dev_patel	english	no	"thriller,action"	no
+april	the_color_of_money	1986	119	3.5	martin_scorsese	english	no	drama	no
+may	war_for_the_planet_of_the_apes	2017	140	3.5	matt_reeves	english	no	"war,drama,science fiction"	no
+may	the_lego_ninjago_movie	2017	101	3.5	"charlie_bean, bob_logan, paul_fisher"	english	no	"adventure,action,comedy,animation,family"	no
+may	gods_own_country	2017	105	3.5	francis_lee	english	no	"romance,drama"	no
+may	the_wind_that_shakes_the_barley	2006	127	3.5	ken_loach	english	no	"war,drama"	no
+may	mad_max_2	1981	96	3.5	george_miller	english	no	"science fiction,adventure,action"	no
+june	inside_out_2	2024	97	3.5	kelsey_mann	english	no	"comedy,drama,family,animation,adventure"	no
+june	ultraman_rising	2024	117	3.5	shannon_tindle	english	no	"action,science fiction,family,animation"	no
+july	Longlegs	2024	101	3.5	osgood_perkins	english	no	"horror,thriller,crime"	no
+august	alien_romulus	2024	119	3.5	fede_alvarez	english	no	"science fiction,horror"	no
+september	Beetlejuice	1988	92	3.5	tim_burton	english	no	"fantasy,comedy"	no
+september	the_substance	2024	141	3.5	coralie_fargeat	english	no	"horror,drama,science fiction"	no
+october	the_peanuts_movie	2015	88	3.5	steve_martino	english	no	"family,animation,comedy"	no
+october	transformers_one	2024	104	3.5	josh_cooley	english	no	"animation,family,adventure,science fiction"	no
+november	Conclave	2024	120	3.5	edward_berger	english	no	"drama,thriller"	no
+november	the_martian	2015	141	3.5	ridley_scott	english	no	"drama,science fiction,adventure"	no
+december	how_to_train_your_dragon_2	2014	102	3.5	dean_deblois	english	no	"fantasy,family,adventure,animation"	no
+december	Certain Women	2016	107	3.5	kelly_reichardt	english	no	drama	no
+december	Queer	2024	137	3.5	luca_guadagnino	english	no	"romance,drama"	no
+december	the_notebook	2004	123	3.5	nick_cassavetes	english	no	"romance,drama"	no
+february	american_fiction	2023	117	3	cord_jefferson	english	no	"comedy,drama"	no
+march	Arrival	2016	116	3	denis_villeneuve	english	no	"science fiction,mystery,drama"	no
+march	blade_runner_2049	2017	164	3	denis_villeneuve	english	no	"science fiction,drama"	no
+march	Pig	2021	92	3	michael_sarnoski	english	no	"thriller,drama"	no
+march	Dune	2021	155	3	denis_villeneuve	english	no	"science fiction,adventure"	no
+march	you_were_never_really_here	2017	89	3	lynne_ramsay	english	no	"drama,thriller,crime"	no
+may	assault_on_precinct_13	1976	91	3	john_carpenter	english	no	"crime,action,thriller"	no
+may	mad_max	1979	91	3	george_miller	english	no	"science fiction,adventure,action"	no
+may	the_garfield_movie	2024	101	3	mark_dindal	english	no	"action,animation,adventure,family,comedy"	no
+june	kinds_of_kindness	2024	164	3	yorgos_lanthimos	english	no	"comedy,drama"	no
+december	The Gay Divorcee	1934	107	3	mark_sandrich	english	no	"romance,comedy"	no
+march	Insomnia	2002	118	2.5	christopher_nolan	english	no	"crime,thriller"	no
+may	28_days_later	2002	113	2.5	danny_boyle	english	no	"horror,science fiction,thriler"	no
+august	Trap	2024	105	2.5	m_night_shyamalan	english	no	"crime,thriller"	no
+august	Prometheus	2012	124	2.5	ridley_scott	english	no	"science fiction,horror,adventure,mystery"	no
+march	kung_fu_panda_4	2024	94	2	mike_mitchell	english	no	"action,fantasy,family,animation"	no
+october	civil_war	2024	109	2	alex_garland	english	no	"drama,war,action"	no
+july	Deadpool_and_Wolverine	2024	128	1	shawn_levy	english	no	"science fiction,action,comedy"	no
+june	a_separation	2011	123	5	asghar_farhadi	farsi	yes	drama	no
+january	life_and_nothing_more	1992	95	4	abbas_kiarostami	farsi	yes	drama	no
+june	The Runner	1984	94	4	amir_naderi	farsi	yes	drama	no
+november	into_great_silence	2005	162	NA	philip_groning	french	yes	documentary	no
+november	la_commune	2000	345	NA	peter_watkins	french	yes	"drama,war,history"	no
+march	Incendies	2010	131	5	denis_villeneuve	french	sort of	"mystery,war,drama"	no
+february	oh_sun	1970	103	4.5	med_hondo	french	yes	drama	no
+february	the_taste_of_things	2023	135	4.5	tran_anh_hung	french	yes	"romance,drama"	no
+september	red_rooms	2023	118	4.5	pascal_plante	french	yes	"crime,drama,thriller"	no
+may	saint_omer	2022	123	4	alice_diop	french	yes	"crime,drama"	no
+december	The Story of a Three-Day Pass	1967	87	4	melvin_van_peebles	french	yes	"drama,romance"	no
+february	matthias_and_maxime	2019	119	3.5	xavier_dolan	french	yes	"romance,drama"	no
+august	alice_in_the_cities	1974	110	NA	wim_wenders	german	yes	drama	no
+august	"Aguirre, the Wrath of God"	1972	95	NA	werner_herzog	german	yes	"history,drama,adventure"	no
+december	pina	2011	106	NA	wim_wenders	german	yes	documentary	no
+january	the_zone_of_interest	2023	105	4.5	jonathan_glazer	german	yes	"drama,history"	no
+june	ali_fear_eats_the_soul	1974	93	4.5	rainer_werner_fassbinder	german	yes	"drama,romance"	no
+november	lessons_of_darkness	1992	54	4.5	werner_herzog	german	yes	"documentary,war"	no
+june	the_bitter_tears_of_petra_von_kant	1972	124	4	rainer_werner_fassbinder	german	yes	"drama,romance"	no
+january	great_freedom	2021	116	3.5	sebastian_meise	german	yes	"drama,crime,romance"	no
+november	hands_over_the_city	1963	101	NA	francesco_rosi	italian	yes	drama	no
+april	la_chimera	2023	131	4.5	alice_rohrwacher	italian	yes	"drama,comedy,fantasy"	no
+july	Fellini_Satyricon	1969	129	4.5	federico_fellini	italian	yes	"fantasy,drama"	no
+january	Yojimbo	1961	110	NA	akira_kurosawa	japanese	yes	"thriller,drama"	no
+february	the_men_who_tread_on_tigers_tails	1945	59	NA	akira_kurosawa	japanese	yes	"adventure,drama,history,thriller"	no
+march	the_bad_sleep_well	1960	150	NA	akira_kurosawa	japanese	yes	"drama,thriller,crime"	no
+july	Twenty_four_Eyes	1954	156	NA	keisuke_kinoshita	japanese	yes	drama	no
+june	funeral_parade_of_roses	1969	105	5	toshio_matsumoto	japanese	yes	drama	no
+june	nobody_knows	2004	141	5	hirokazu_kore_eda	japanese	yes	drama	no
+october	look_back	2024	58	5	kiyotaka_oshiyama	japanese	yes	"drama,animation"	no
+november	one_piece_fan_letter	2024	24	5	megumi_ishitani	japanese	no	"drama,adventure,animation,TV movie"	no
+january	long_wolf_and_cub_sword_of_venegence	1972	83	4.5	kenji_misumi	japanese	yes	"drama,action"	no
+may	jin_roh_the_wolf_brigade	1999	102	3.5	hiroyuki_okiura	japanese	yes	"animation,drama,science fiction,romance,thriller"	no
+june	summer_wars	2009	114	3.5	mamoru_hosoda	japanese	yes	"animation,science fiction"	no
+june	shin_ultraman	2022	112	3.5	shinji_higuchi	japanese	yes	"action,science fiction"	no
+january	edvard_munch	1974	210	4	peter_watkins	norwegeian	yes	"drama,history,TV movie"	no
+december	the_seed_of_the_sacred_fig	2024	167	3.5	mohammed_rasoulof	persian	yes	"thriller,drama"	no
+july	horse_money	2014	104	NA	pedro_costa	portuguese	yes	drama	no
+july	The_Death_of_Mr_Lazarescu	2005	150	4.5	cristi_puiu	romanian	yes	"drama,comedy"	no
+may	i_do_not_care_if_we_go_down_in_history_as_barbarians	2018	140	4	radu_jude	romanian	yes	"comedy,drama,history"	no
+april	Stalker	1979	162	NA	andrei_tarkovsky	russian	yes	"drama,science fiction"	no
+march	dersu_uzala	1975	141	4.5	akira_kurosawa	russian	yes	"drama,adventure,action"	no
+march	a_visitor_to_a_museum	1989	128	3.5	konstantin_lopushansky	russian	yes	"drama,science fiction"	no
+january	volver	2006	121	NA	pedro_almodovar	spanish	no	"drama,romance,comedy"	no
+january	i_dream_in_another_language	2017	101	4	ernesto_contreras	spanish	yes	"drama,fantasy"	no
+february	Timecrimes	2007	92	4	nacho_vigalondo	spanish	yes	"thriller,science fiction"	no
+may	history_of_the_occult	2020	82	3.5	cristian_ponce	spanish	yes	"horror,thriller,drama"	no
+june	Rafiki	2018	82	3	wanuri_kahiu	swahili	yes	"drama,romance"	no
+august	Dheepan	2015	115	3	jacques_audiard	tamil	yes	"crime,drama"	no
+january	Cyclo	1995	123	3.5	tran_anh_hung	vietnamese	yes	"drama,crime"	no
+may	inside_the_yellow_cocoon_shell	2023	179	3	pham_thien_an	vietnamese	yes	drama	no
+june	Mandabi	1968	90	4	ousmane_sembene	wolof	yes	"comedy,drama"	no
+january	bee_movie	2007	91	NA	"simon_j_smith, steve_hickner"	english	no	"family,comedy,animation,adventure"	yes
+july	Madagascar	2005	86	NA	"eric_darnell, tom_mcgrath"	english	no	"family,adventure,comedy,animation"	yes
+july	Hercules	1997	93	NA	"ron_clements, john_musker"	english	no	"animation,adventure,romance,comedy,fantasy,family"	yes
+january	there_will_be_blood	2007	158	5	paul_thomas_anderson	english	no	drama	yes
+march	dune_part_two	2024	167	5	denis_villeneuve	english	no	"adventure,science fiction"	yes
+may	mad_max_fury_road	2015	121	5	george_miller	english	no	"science fiction,adventure,action"	yes
+july	puss_in_boots_the_last_wish	2022	103	5	joel_crawford	english	no	"animation,family,fantasy,comedy,adventure"	yes
+november	the_fall	2006	119	5	tarsem_singh	english	no	"adventure,fantasy,drama"	yes
+november	paddington_2	2017	104	5	paul_king	english	no	"family,adventure,comedy"	yes
+december	phantom_thread	2017	130	5	paul_thomas_anderson	english	no	"drama,romance"	yes
+october	the_silence_of_the_lambs	1991	119	4.5	jonathan_demme	english	no	"horror,crime,thriller,drama"	yes
+december	alien	1979	117	4.5	ridley_scott	english	no	"horror,science fiction"	yes
+january	aftersun	2022	101	4	charlotte_wells	english	no	drama	yes
+march	killers_of_the_flower_moon	2023	206	4	martin_scorsese	english	no	"history,crime,drama"	yes
+march	past_lives	2023	106	4	celine_song	english	no	"drama,romance"	yes
+december	star_trek	2009	127	4	jj_abrams	english	no	"science fiction,action,adventure"	yes
+december	star_trek_into_darkness	2013	132	3.5	jj_abrams	english	no	"science fiction,action,adventure"	yes
+december	oppenheimer	2023	181	3.5	christopher_nolan	english	no	"history,drama"	yes
+november	oceans_twelve	2004	125	3	steven_soderbergh	english	no	"thriller,crime"	yes
+august	la_haine	1995	98	5	mathieu_kassovitz	french	yes	drama	yes
+february	mishima_a_life_in_four_chapters	1985	121	5	paul_schrader	japanese	sort of	drama	yes
+december	millennium_actress	2001	87	5	satoshi_kon	japanese	yes	"romance,animation,drama,fantasy"	yes
+september	city_of_god	2002	129	4.5	fernando_meirelles	portuguese	yes	"drama,crime"	yes
